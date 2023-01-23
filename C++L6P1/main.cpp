@@ -7,7 +7,6 @@
 
 #include <iostream>
 
-
 using namespace std;
 int month;
 int main() {
